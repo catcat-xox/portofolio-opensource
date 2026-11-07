@@ -21,3 +21,10 @@ serta penggunaan Git dan GitHub.
 - Mempelajari penggunaan Linux.
 - Memahami pengelolaan kode menggunakan Git.
 - Berkolaborasi melalui GitHub.
+
+## Teknologi yang Dipelajari
+
+- Linux Mint
+- Visual Studio Code
+- Git
+- GitHub
