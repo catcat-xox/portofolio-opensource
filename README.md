@@ -8,3 +8,9 @@ dalam mata kuliah Open Source.
 - Nama: Wandi Saputra
 - Program Studi: Sistem Informasi
 - Universitas: UINSI Samarinda
+
+## Ketertarikan di Bidang Open Source
+
+Saya tertarik mempelajari perangkat lunak
+open source, pengembangan aplikasi, Linux,
+serta penggunaan Git dan GitHub.
