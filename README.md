@@ -14,3 +14,10 @@ dalam mata kuliah Open Source.
 Saya tertarik mempelajari perangkat lunak
 open source, pengembangan aplikasi, Linux,
 serta penggunaan Git dan GitHub.
+
+## Tujuan Pembelajaran
+
+- Memahami konsep perangkat lunak open source.
+- Mempelajari penggunaan Linux.
+- Memahami pengelolaan kode menggunakan Git.
+- Berkolaborasi melalui GitHub.
